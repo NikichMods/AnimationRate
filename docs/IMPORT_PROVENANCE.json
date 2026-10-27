@@ -1,0 +1,50 @@
+{
+  "originalRepository": "NikichMods/AsterigosMods",
+  "originalCommit": "0fb78e76c24306ade338b85f63cb5f2dbfa7f9e7",
+  "originalPrefix": "AnimationRate/",
+  "extractedCommit": "9ba6f236de38c88ee268d53d59eafd602f90acbb",
+  "extractedTree": "8d311583339c2318db76f9004fea51c4e744076c",
+  "branch": "main",
+  "files": {
+    "AGENTS.md": {
+      "original_path": "AnimationRate/AGENTS.md",
+      "original_blob": "2c18e005644c6d95904e05110d2ff30f3ab94bbf",
+      "sha256": "0fc20e5acdee773a328be25d3c24a258c4664684d67700af91bd2c8d1cef1538"
+    },
+    "Engine.ini.fragment": {
+      "original_path": "AnimationRate/Engine.ini.fragment",
+      "original_blob": "093ea4042ca063659adfb7f29fea7d05b869e8a1",
+      "sha256": "d68f33c5158db4dba55888db7d97bb653515c79c8380f5fe0d5551de5cdb774e"
+    },
+    "LICENSE-NOTICE": {
+      "original_path": "AnimationRate/LICENSE-NOTICE",
+      "original_blob": "339c645985ab351372ffe71e956e22f46bbde645",
+      "sha256": "92b915ba613977889d175ff08765381c5509dfa8f4dd4d15a68e3fe1b9c9f808"
+    },
+    "README.md": {
+      "original_path": "AnimationRate/README.md",
+      "original_blob": "2eadb2a65374ab5fe6aa1d2efe73a713d0abbb79",
+      "sha256": "d0a52ecf12d79b8aabef47c3e74c443668fd2448f65e901f15efb9d364e2c5b7"
+    },
+    "VERSION": {
+      "original_path": "AnimationRate/VERSION",
+      "original_blob": "6e8bf73aa550d4c57f6f35830f1bcdc7a4a62f38",
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+    },
+    "docs/REQUIREMENTS.md": {
+      "original_path": "AnimationRate/docs/REQUIREMENTS.md",
+      "original_blob": "572ead6cf6a47cd788c88539f6ac32bc5988a2ee",
+      "sha256": "5977372fc953a3dbf549770c87797875ace3f4a70ee042c410c0d87d3535c4c5"
+    },
+    "docs/STATUS.md": {
+      "original_path": "AnimationRate/docs/STATUS.md",
+      "original_blob": "f01dcae560eac69d60b11c3aad0d6d4ff019b811",
+      "sha256": "a729f5997386bb050f9addb3ccdb25bc1a9d0d25a209e7441becc0ab0aea8f2c"
+    },
+    "docs/VERIFIED_RUNTIME.md": {
+      "original_path": "AnimationRate/docs/VERIFIED_RUNTIME.md",
+      "original_blob": "d77fa7afcff360fb6d0dde473b15f3bc42e1f8ce",
+      "sha256": "1f91564ad063b2d904fca74fccdd6472b3a6c58d5ebbb0e26c73b5eb38e7002d"
+    }
+  }
+}
